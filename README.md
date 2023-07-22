@@ -36,7 +36,7 @@ Modifies the x-ajax plugin to support children
 </div>`
 
 ## test markup
-`<div>
+<div>
     <div class="empty-div"></div>
     <div class="text-element">This is a div with plain text.</div>
     <div class="nested-div">
@@ -54,4 +54,4 @@ Modifies the x-ajax plugin to support children
             <span>Child of second child div.</span>
         </div>
     </div>
-</div>`
+</div>
