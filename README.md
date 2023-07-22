@@ -35,23 +35,3 @@ Modifies the x-ajax plugin to support children
 
 </div>`
 
-## test markup
-<div>
-    <div class="empty-div"></div>
-    <div class="text-element">This is a div with plain text.</div>
-    <div class="nested-div">
-        <div class="inner-div">
-            <p>Paragraph inside inner div.</p>
-        </div>
-    </div>
-    <div class="multiple-divs">
-        <div>
-            First child div.
-            <span>Child of first child div.</span>
-        </div>
-        <div>
-            Second child div.
-            <span>Child of second child div.</span>
-        </div>
-    </div>
-</div>
