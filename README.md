@@ -1,6 +1,7 @@
 # x-ajax-mod
-Modifies the x-ajax plugin to support children
-
+Modifies the x-ajax plugin by ekwoka to support children
+[https://github.com/ekwoka/alpine-plugins
+](https://github.com/ekwoka/alpine-plugins/blob/main/xajax/src/index.js)
 ## text requests
 `<div x-data="{url: 'https://edd-back-to-the-future-ii.local/products/'}">
 
